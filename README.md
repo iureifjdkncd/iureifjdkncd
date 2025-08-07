@@ -37,7 +37,9 @@ InterX (2023.03 ~ Present)
 
 Position: Data Scientist / SDF R&D
 
-주요 업무 : Time Series Forecasting, Anomaly Detection
+주요 업무 : Time Series Forecasting, Anomaly Detection 
+
+※ 이미지 기반 분석(CV), LLM분석은 직접 수행 경험 없음
 
 ### ⭐️ Skills
 | 기술           | 실무 활용                                                                              | 내용 정리                                                    | 역량  |
