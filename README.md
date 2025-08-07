@@ -26,9 +26,9 @@ InterX (2023.03 ~ Present)
 Position: Data Scientist / SDF R&D
 
 ### ⭐️ Skills
-| 기술           | 실무 활용                                                                              | 내용 정리                                                    |  숙련도  |
+| 기술           | 실무 활용                                                                              | 내용 정리                                                    |  역량  |
 | ------------ | ------------------------------------------------------------------------------------- | -------------------------------------------------------- | ---- |
-| **Python**   | `pandas`, `numpy`로 데이터 분석 및 전처리 수행,<br>`scikit-learn`, `TensorFlow` 사용한 AI 모델 개발 및 실험 | 전체 파이프라인 경험 보유 (모델 학습 포함),<br>다만 PyTorch는 미경험            | 중\~상 |
+| **Python**   | `pandas`, `numpy`로 데이터 분석 및 전처리 수행,<br>`scikit-learn`, `TensorFlow` 사용한 AI 모델 개발 및 실험 | 전체 파이프라인 경험 보유 (모델 학습 포함),<br>다만 PyTorch, OpenCV는 미경험            | 중\~상 |
 | **FastAPI**  | 학습된 모델을 `/predict` 등의 REST API로 배포하여 주문 시스템 구현                                        | API 기반 시스템 구축 경험 보유,<br>실제 서비스 흐름에 통합해 운영 가능             | 중    |
 | **Docker**   | `Dockerfile`을 활용한 환경 구성,<br>`.bat` 스크립트 작성 및 컨테이너 테스트 수행                              | 운영/배포 환경은 개발팀 주도,<br>환경 테스트 및 협업 중심으로 참여                 | 중    |
 | **Database** | `MongoDB` 및 `PostgreSQL`에서 조건 필터링, 정렬, `limit` 쿼리 수행,<br>조회 및 가공 경험                   | NoSQL(MongoDB)와 RDB(PostgreSQL) 모두 경험,<br>설계 및 운영 경험은 없음 | 중    |
