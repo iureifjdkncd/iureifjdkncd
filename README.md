@@ -49,6 +49,7 @@ Position: Data Scientist / SDF R&D
 ---
 
 ### 📝 Projects
+ [전체 요약](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main)
 
 #### 1. 비지도 학습 기반 사출 품질 예측 및 최적 세팅 추천 시스템
 - 기간 : 2023.08 ~ 2025.07 (약 23개월)
