@@ -131,7 +131,7 @@ Position: Data Scientist / SDF R&D
 
 ## 📝 Research 
 
-#### 1.) Recipe Based Anomaly Detection with Adaptable Learning(2025)
+#### 1.) Recipe Based Anomaly Detection with Adaptable Learning: Implications on Sustainable Smart Manufacturing(2025)
 
 - 기간 : 2024.10 ~ 2025.02
 
