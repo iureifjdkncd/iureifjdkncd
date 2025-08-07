@@ -1,16 +1,113 @@
-## Hi there 👋
+## 📜 이준희 포트폴리오
 
-<!--
-**iureifjdkncd/iureifjdkncd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+이준희 (Jun Hee Lee) - 포트폴리오
 
-Here are some ideas to get you started:
+--- 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 학력
+- 한양대학교(서울) 비즈니스 인포매틱스학과 석사 졸업 (2023.02)
+
+ - 석사학위논문 : 베이지안 딥러닝을 활용한 항만물동량 예측에 관한 연구
+
+    → [논문 요약 및 핵심코드 저장소 바로가기](https://github.com/iureifjdkncd/2022-MS_Thesis)
+
+- 세종대학교 경영학과 / 비즈니스 애널리틱스학과 학사 졸업 (2021.02)
+
+--- 
+
+## 📝 Projects
+
+#### 1. 비지도 학습 기반 사출 품질 예측 및 최적 세팅 추천 시스템
+- 기간 : 2023.08 ~ 2025.07 (약 23개월)
+
+- 역할 : AI 모델 개발 및 솔루션 모니터링
+
+- 기술 : Python, TensorFlow, Scikit-Learn, FastAPI, MongoDB, PostgreSQL
+
+- 설명 : K-Means 기반 조건 분류와 AutoEncoder 계열 모델을 활용해 불량 탐지 정확도를 16% 향상시키고, 예측 기반 라벨링으로 불량률 5% 감소에 기여
+
+- [프로젝트 상세 설명](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main/Project_A)
+
+---
+
+#### 2. 확률적 예측 기반 제당 공정 품질 추론 및 조건 최적화 시스템
+
+- 기간 : 2024.05 ~ 2025.03 (약 10개월)
+
+- 역할 : AI 모델 개발 및 솔루션 모니터링
+
+- 기술 : Python, TensorFlow, Scikit-Learn, FastAPI, MongoDB
+
+- 설명 : Quantile Regression과 Monte Carlo Dropout 기반 BiLSTM 모델 및 KDE를 활용해 예측 정확도 95%(실험) / 85 ~ 87%(현장) 달성, 추천 조건 일치율 85 ~ 90% 유지
+
+- [프로젝트 상세 설명](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main/Project_B)
+
+---
+
+#### 3.) 사출 설비 품질 예측 및 조건 추천 통합 시스템 구축
+- 기간 : 2023.05 ~ 2025.03 (약 21개월)
+
+- 역할 : AI 모델 개발 및 솔루션 모니터링
+
+- 기술 : Python, TensorFlow, Scikit-Learn, FastAPI, MongoDB
+
+- 설명 : 비지도 기반 실시간 예측 체계 설계로 불량 탐지 정확도 14% 향상, K-Means 기반 조건 추천 알고리즘으로 실제 조건과 3~5% 내 오차 유지
+
+- [프로젝트 상세 설명](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main/Project_C)
+
+---
+
+#### 4.) 사출 설비 불량 예측 모델 개발 및 TTA 인증 대응
+
+- 기간 : 2023.08 ~ 2023.09 (약 1개월)
+
+- 역할 : AI 모델 개발 및 솔루션 모니터링
+
+- 기술 : Python, Scikit-Learn, MongoDB
+
+- 설명 : Tree 기반 모델로 F1 95% 이상 달성, TTA 인증을 위한 모델 안정성 검증 및 시스템 준비 완료
+
+[프로젝트 상세 설명](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main/Project_D)
+
+---
+
+#### 5.) Cogging Motor 기반 조립·병렬 공정 불량 탐지 POC 수행
+- 기간 : 2024.07 ~ 2024.08 (약 1개월)
+
+- 역할 : AI 모델 개발 및 솔루션 모니터링
+
+- 기술 : Python, Scikit-Learn
+
+- 설명 : XGBoost 기반 공정 불량 탐지 모델 개발 및 공정별 AI 적용 가능성 분석, 일부 공정 F1 75~91% 성능 확보
+
+- [프로젝트 상세 설명](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main/Project_E)
+
+---
+#### 6.) 고속 사출기 불량 탐지 AI 모델 POC 수행
+- 기간 : 2023.11 ~ 2023.12 (약 1개월)
+
+- 역할 : AI 모델 개발 및 솔루션 모니터링
+
+- 기술 : Python, Scikit-Learn
+
+- 설명 : Raw 데이터 표준화 및 Optuna 기반 모델 고도화로 F1 70%에서 82%로 향상, 고속 주기 조건 대응 실시간 예측 구조 설계
+
+- [프로젝트 상세 설명](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main/Project_F)
+
+---
+
+## 📝 Research 
+
+#### 1.) Recipe Based Anomaly Detection with Adaptable Learning(2025)
+
+- 기간 : 2024.10 ~ 2025.02
+
+- 역할 : 분석 전략 기획, AI 고도화 연구, 논문 작성
+
+- 기술 : Python, Scikit-Learn, TensorFlow, Overleaf
+
+- 설명 : 도메인별 품질 문제 정의 및 모델링 전략 수립, 불량 탐지 정확도 30~50% 이상 향상 기여, SCI급 논문 1저자 등재 (MDPI Sensors 저널 게재)
+
+- [논문 및 코드 저장소 바로가기](https://github.com/iureifjdkncd/Research)
+
+---
