@@ -78,7 +78,7 @@ Position: Data Scientist / SDF R&D
 ---
 
 #### 3.) 사출 설비 품질 예측 및 조건 추천 통합 시스템
-- 기간 : 2023.05 ~ 2025.03 (약 21개월)
+- 기간 : 2023.05 ~ 2025.03 (약 22개월)
 
 - 역할 : AI 모델 개발 및 솔루션 모니터링
 
@@ -94,7 +94,7 @@ Position: Data Scientist / SDF R&D
 
 - 기간 : 2023.08 ~ 2023.09 (약 1개월)
 
-- 역할 : AI 모델 개발 및 솔루션 모니터링
+- 역할 : AI 모델 개발 및 보고서 작성 보조
 
 - 기술 : Python, Scikit-Learn, MongoDB
 
@@ -107,7 +107,7 @@ Position: Data Scientist / SDF R&D
 #### 5.) Cogging Motor 기반 조립·병렬 공정 불량 탐지 POC 수행
 - 기간 : 2024.07 ~ 2024.08 (약 1개월)
 
-- 역할 : AI 모델 개발 및 솔루션 모니터링
+- 역할 : AI 모델 개발 및 제안서 작성 보조
 
 - 기술 : Python, Scikit-Learn
 
@@ -119,7 +119,7 @@ Position: Data Scientist / SDF R&D
 #### 6.) 고속 사출기 불량 탐지 AI 모델 POC 수행
 - 기간 : 2023.11 ~ 2023.12 (약 1개월)
 
-- 역할 : AI 모델 개발 및 솔루션 모니터링
+- 역할 : AI 모델 개발 및 제안서 작성 보조
 
 - 기술 : Python, Scikit-Learn
 
