@@ -152,6 +152,21 @@ Position: Data Scientist / SDF R&D
 
 ---
 
+#### 2.) A Two-Stage Deep Learning Framework for Uncertainty-Aware Forecasting and Conditional Process Optimization Toward Sustainable Smart Manufacturing (2025)
+
+- 기간 : 2025.06 ~ 2025.08
+
+- 역할 : 분석 전략 기획, AI 고도화 연구, 논문 작성
+
+- 기술 : Python, TensorFlow, NumPy, Pandas, Overleaf
+
+- 설명 : Forecast-Aware Reconstruction기반 Time Series Generation Module 설계, 
+실제 제조 데이터 및 벤치마크 데이터셋에서 예측 정확도 최대 35.7%, Prediction Interval 적합도 최대 25.2% 개선
+SCI급 논문 1저자 작성 (제출 예정)
+
+---
+
+
 ## 🏆 Contest 
 
 #### 1.) 산업통상자원부 공공빅데이터 BI 활용 공모전 (최우수상)
