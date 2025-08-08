@@ -50,6 +50,33 @@ Position: Data Scientist / SDF R&D
 | **Database** | `MongoDB`,`PostgreSQL`에서 조건 필터링,정렬,`limit` 쿼리 수행,<br>Python 기반 조회 및 가공 경험                   | NoSQL(MongoDB)&RDB(PostgreSQL) 구조 이해,<br>설계,운영 경험은 없음 | 중    |
 | **Git**      | GitLab에 업로드 및 commit/pull/push,<br>`master` 브랜치 관리 경험                                            | Git 기본 명령 및 협업 경험 보유,<br>전략적 브랜치 운영 경험 부족           | 중\~하    |
 
+### 📌 AI 프로젝트 프로세스 담당 구분
+
+| 단계 | 프로세스 | 주요 담당 |
+|------|----------|-----------|
+| 1 | Raw Data 수집·정제 | 개발팀 / 데이터 엔지니어 |
+| 2 | DB 조회 | **본인 주도** |
+| 3 | 학습용 데이터 전처리 | **본인 주도** |
+| 4 | AI 모델 구축 | **본인 주도** |
+| 5 | 추론용 FastAPI 구축 | 개발팀 주도 + 협업 |
+| 6 | Framework 활성화 | **본인 주도 + 개발팀 협업** |
+| 7 | 시스템 모니터링 | **본인 주도 + 개발팀 협업** |
+
+```mermaid
+flowchart LR
+    A[Raw Data 수집·정제]:::dev
+    B[DB 조회]:::me
+    C[학습용 데이터 전처리]:::me
+    D[AI 모델 구축]:::me
+    E[추론용 FastAPI 구축]:::devco
+    F[Framework 활성화]:::meco
+    G[시스템 모니터링]:::meco
+    A --> B --> C --> D --> E --> F --> G
+    classDef me fill:#fef3c7,stroke:#f59e0b,stroke-width:2px;
+    classDef dev fill:#dbeafe,stroke:#3b82f6,stroke-width:2px;
+    classDef devco fill:#e0f2fe,stroke:#0284c7,stroke-width:2px;
+    classDef meco fill:#ecfdf5,stroke:#10b981,stroke-width:2px;
+```
 ---
 
 ### 📝 Projects
