@@ -70,7 +70,7 @@ flowchart LR
     D[AI 모델 구축]:::me
     E[추론용 FastAPI 구축]:::me
     F[서비스 통합·배포·활성화]:::meco
-    G[시스템 모니터링]:::meco
+    G[시스템 모니터링]:::me
     A --> B --> C --> D --> E --> F --> G
     classDef me fill:#fef3c7,stroke:#f59e0b,stroke-width:2px;
     classDef dev fill:#dbeafe,stroke:#3b82f6,stroke-width:2px;
