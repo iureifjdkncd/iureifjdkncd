@@ -162,6 +162,7 @@ flowchart LR
 ---
 
 ## 📝 Research 
+[전체 요약](https://github.com/iureifjdkncd/Research)
 
 #### 1.) Recipe Based Anomaly Detection with Adaptable Learning: Implications on Sustainable Smart Manufacturing(2025)
 
@@ -175,8 +176,6 @@ flowchart LR
 
 - [논문 링크](https://doi.org/10.3390/s25051457)
    
-- [연구 요약](https://github.com/iureifjdkncd/Research)
-
 ---
 
 #### 2.) A Two-Stage Deep Learning Framework for Uncertainty-Aware Forecasting and Conditional Process Optimization Toward Sustainable Smart Manufacturing (2025)
