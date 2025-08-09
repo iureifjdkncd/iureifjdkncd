@@ -59,7 +59,7 @@ Position: Data Scientist / SDF R&D
 | 3 | 학습용 데이터 전처리 | **본인 주도** |
 | 4 | AI 모델 구축 | **본인 주도** |
 | 5 | 추론용 FastAPI 구축 | **본인 주도 + 개발팀 협업** |
-| 6 | Docker 및 Framework 활성화 | 개발팀 주도 + 협업 |
+| 6 | 서비스 통합·배포·활성화 | 개발팀 주도 + 협업 |
 | 7 | 시스템 모니터링 | **본인 주도 + 개발팀 협업** |
 
 ```mermaid
@@ -69,7 +69,7 @@ flowchart LR
     C[학습용 데이터 전처리]:::me
     D[AI 모델 구축]:::me
     E[추론용 FastAPI 구축]:::me
-    F[Docker 및 Framework 활성화]:::meco
+    F[서비스 통합·배포·활성화]:::meco
     G[시스템 모니터링]:::meco
     A --> B --> C --> D --> E --> F --> G
     classDef me fill:#fef3c7,stroke:#f59e0b,stroke-width:2px;
