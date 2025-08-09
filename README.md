@@ -187,8 +187,10 @@ flowchart LR
 - 기술 : Python, TensorFlow, Overleaf
 
 - 설명 : Forecast-Aware Reconstruction기반 Time Series Generation Module 설계, 
-실제 제조 데이터 및 벤치마크 데이터셋에서 예측 정확도 최대 35.7%, Prediction Interval 적합도 최대 25.2% 개선
-SCI급 논문 1저자 작성 (제출 예정)
+실제 제조 데이터 및 벤치마크 데이터셋에서 예측 정확도 최대 35.7%, Prediction Interval 적합도 최대 25.2% 개선, 
+SCI급 논문 1저자 작성 
+
+- [제출 예정](https://www.preprints.org/manuscript/202508.0377/v1)
 
 ---
 
