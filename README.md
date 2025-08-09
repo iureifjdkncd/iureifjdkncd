@@ -82,7 +82,7 @@ flowchart LR
 ### 📝 Projects
  [전체 요약](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main)
 
-#### 1. 비지도 학습 기반 사출 품질 예측 및 최적 세팅 추천 시스템
+#### 1. 비지도 학습 기반 사출 품질 예측 및 최적 세팅 추천 시스템 (A사 자동차 부품 제조기업)
 - 기간 : 2023.08 ~ 2025.07 (약 23개월)
 
 - 역할 : AI 모델 개발 및 솔루션 모니터링
@@ -95,7 +95,7 @@ flowchart LR
 
 ---
 
-#### 2. 확률적 시계열 예측 기반 제당 공정 품질 추론 및 조건 최적화 시스템
+#### 2. 확률적 시계열 예측 기반 제당 공정 품질 추론 및 조건 최적화 시스템 (S사 제당공정 기업)
 
 - 기간 : 2024.05 ~ 2025.03 (약 10개월)
 
@@ -109,7 +109,7 @@ flowchart LR
 
 ---
 
-#### 3.) 사출 설비 품질 예측 및 조건 추천 통합 시스템
+#### 3.) 사출 설비 품질 예측 및 조건 추천 통합 시스템 (N사 자동차 부품 제조기업)
 - 기간 : 2023.05 ~ 2025.03 (약 22개월)
 
 - 역할 : AI 모델 개발 및 솔루션 모니터링
@@ -122,7 +122,7 @@ flowchart LR
 
 ---
 
-#### 4.) 사출 설비 불량 예측 모델 개발 및 TTA 인증 대응
+#### 4.) 사출 설비 불량 예측 모델 개발 및 TTA 인증 대응 (S사 자동차 부품 제조기업)
 
 - 기간 : 2023.08 ~ 2023.09 (약 1개월)
 
@@ -136,7 +136,7 @@ flowchart LR
 
 ---
 
-#### 5.) Cogging Motor 기반 조립·병렬 공정 불량 탐지 POC 수행
+#### 5.) Cogging Motor 기반 조립·병렬 공정 불량 탐지 POC 수행 (M사 모터 제조기업)
 - 기간 : 2024.07 ~ 2024.08 (약 1개월)
 
 - 역할 : AI 모델 개발 및 제안서 작성 보조
@@ -148,7 +148,7 @@ flowchart LR
 - [프로젝트 상세 설명](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main/Project_E)
 
 ---
-#### 6.) 고속 사출기 불량 탐지 AI 모델 POC 수행
+#### 6.) 고속 사출기 불량 탐지 AI 모델 POC 수행 (L사 산업용 기계 제조기업)
 - 기간 : 2023.11 ~ 2023.12 (약 1개월)
 
 - 역할 : AI 모델 개발 및 제안서 작성 보조
@@ -165,7 +165,7 @@ flowchart LR
 
 #### 1.) Recipe Based Anomaly Detection with Adaptable Learning: Implications on Sustainable Smart Manufacturing(2025)
 
-- 기간 : 2024.10 ~ 2025.02
+- 기간 : 2024.10 ~ 2025.02 (약 5개월)
 
 - 역할 : 분석 전략 기획, AI 고도화 연구, 논문 작성
 
@@ -181,11 +181,11 @@ flowchart LR
 
 #### 2.) A Two-Stage Deep Learning Framework for Uncertainty-Aware Forecasting and Conditional Process Optimization Toward Sustainable Smart Manufacturing (2025)
 
-- 기간 : 2025.06 ~ 2025.08
+- 기간 : 2025.06 ~ 2025.08 (약 2개월)
 
 - 역할 : 분석 전략 기획, AI 고도화 연구, 논문 작성
 
-- 기술 : Python, TensorFlow, NumPy, Pandas, Overleaf
+- 기술 : Python, TensorFlow, Overleaf
 
 - 설명 : Forecast-Aware Reconstruction기반 Time Series Generation Module 설계, 
 실제 제조 데이터 및 벤치마크 데이터셋에서 예측 정확도 최대 35.7%, Prediction Interval 적합도 최대 25.2% 개선
@@ -200,11 +200,11 @@ SCI급 논문 1저자 작성 (제출 예정)
 
 - 과제명 : 한국 수출금액 예측 모델 기반 기업수요 맞춤형 서비스
   
-- 기간 : 2022.05 ~ 2022.08
+- 기간 : 2022.05 ~ 2022.08 (약 3개월)
 
 - 역할 : 시계열 예측 모델 설계, 정량 분석, 추론 해석, 보고서 및 발표 자료 작성, 학회 논문 작성
 
-- 기술 : Python, Statsmodels, Scikit-Learn, TensorFlow, Keras , Excel, Tableau
+- 기술 : Python, Statsmodels, Scikit-Learn, TensorFlow, Excel, Tableau
 
 - 설명 : 한국 수출금액 예측을 위해 VECM과 Monte Carlo Dropout 기반 Multi Horizon Forecast (Seq2Seq)를 병행 적용하고, 예측 기반 추천 품목 도출 방안을 함께 설계하여 예측 정확도, 불확실성 해석력, 비즈니스 활용 가능성을 동시에 확보
 
