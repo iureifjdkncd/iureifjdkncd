@@ -89,7 +89,7 @@ flowchart LR
 
 - 기술 : Python, TensorFlow, Scikit-Learn, FastAPI, MongoDB, PostgreSQL
 
-- 성과 : K-Means 기반 조건 분류와 AutoEncoder 계열 모델을 활용해 **불량 탐지 정확도 약 16% 향상**, **예측 기반 라벨링으로 불량률 약 5% 감소**
+- 성과 : K-Means 기반 공정조건 분리와 AutoEncoder 계열 모델을 활용해 **불량 탐지 정확도 약 16% 향상**, **예측 기반 라벨링으로 불량률 약 5% 감소**
 
 - [프로젝트 상세 설명](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main/Project_A)
 
@@ -103,7 +103,7 @@ flowchart LR
 
 - 기술 : Python, TensorFlow, Scikit-Learn, FastAPI, MongoDB
 
-- 성과 : Quantile Regression과 Monte Carlo Dropout 기반 BiLSTM 모델 및 KDE를 활용해 예측 정확도 약 95%(실험) / **87 ~ 91%(현장) 달성**, 작업자 기반 RuleBased 대비 AI 예측기반 추천조건 운전 시 **조건 일치율 85~90% 유지**, **설탕 품질 약 1% 향상**
+- 성과 : Quantile Tree Regression과 Monte Carlo Dropout 기반 BiLSTM 모델 및 KDE를 활용해 예측 정확도 약 95%(실험) / **87 ~ 91%(현장) 달성**, 작업자 기반 RuleBased 대비 AI 예측기반 추천조건 운전 시 **조건 일치율 85~90% 유지**, **설탕 품질 약 1% 향상**
 
 - [프로젝트 상세 설명](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main/Project_B)
 
@@ -130,7 +130,7 @@ flowchart LR
 
 - 기술 : Python, Scikit-Learn, MongoDB
 
-- 성과 : Tree 기반 모델로 **F1 95% 이상 달성**, TTA 인증을 위한 모델 안정성 검증 
+- 성과 : Tree ML기반 모델로 **F1 95% 이상 달성**, TTA 인증을 위한 모델 안정성 검증 
 
 [프로젝트 상세 설명](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main/Project_D)
 
@@ -143,7 +143,7 @@ flowchart LR
 
 - 기술 : Python, Scikit-Learn
 
-- 성과 : Tree모델델 기반 공정 불량 탐지 모델 개발 및 공정별 AI 적용 가능성 분석, 일부 공정 **F1 75~91% 성능 확보**
+- 성과 : Tree ML모델 기반 공정 불량 탐지 모델 개발 및 공정별 AI 적용 가능성 분석, 일부 공정 **F1 75~91% 성능 확보**
 
 - [프로젝트 상세 설명](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main/Project_E)
 
@@ -155,7 +155,7 @@ flowchart LR
 
 - 기술 : Python, Scikit-Learn
 
-- 성과 : Raw 데이터 표준화 및 Optuna 기반 Tree 모델 고도화로 **F1 약 12% 향상**, AI 적용 가능성 분석
+- 성과 : Raw 데이터 표준화 및 Optuna 기반 Tree ML모델 고도화로 **F1 약 12% 향상**, AI 적용 가능성 분석
 
 - [프로젝트 상세 설명](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main/Project_F)
 
@@ -172,7 +172,7 @@ flowchart LR
 
 - 기술 : Python, Scikit-Learn, TensorFlow, Overleaf
 
-- 성과 : 도메인별 품질 문제 정의 및 모델링 전략 수립, 실험 단계 **불량 탐지 정확도 30~50% 이상 향상 기여**, **SCI급 논문 1저자 등재 (MDPI Sensors 저널 게재)**
+- 성과 : 도메인별 품질 문제 정의 및 모델링 전략 수립, 실험 단계 AutoEncoder **불량 탐지 정확도 30~50% 이상 향상 기여**, **SCI급 논문 1저자 등재 (MDPI Sensors 저널 게재)**
 
 - [논문 링크](https://doi.org/10.3390/s25051457)
    
