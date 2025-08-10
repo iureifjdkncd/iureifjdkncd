@@ -103,7 +103,7 @@ flowchart LR
 
 - 기술 : Python, TensorFlow, Scikit-Learn, FastAPI, MongoDB
 
-- 설명 : Quantile Regression과 Monte Carlo Dropout 기반 BiLSTM 모델 및 KDE를 활용해 예측 정확도 95%(실험) / 85 ~ 87%(현장) 달성, 추천 조건 일치율 85 ~ 90% 유지
+- 설명 : Quantile Regression과 Monte Carlo Dropout 기반 BiLSTM 모델 및 KDE를 활용해 예측 정확도 95%(실험) / 85 ~ 87%(현장) 달성, 작업자 기반 RuleBased vs AI예측기반 추천조건 운전 시 설탕 품질 약 1% 향상
 
 - [프로젝트 상세 설명](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main/Project_B)
 
