@@ -211,6 +211,8 @@ flowchart LR
 
 - [공모전 정리](https://github.com/iureifjdkncd/2022_KOTRA_BI)
 
+- [수상내역](https://datacontest.kr/board/view/97533073/3694)
+
 - [학회 논문 링크](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11207563)
 
 ---
