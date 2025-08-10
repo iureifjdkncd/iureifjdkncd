@@ -116,7 +116,7 @@ flowchart LR
 
 - 기술 : Python, TensorFlow, Scikit-Learn, FastAPI, MongoDB
 
-- 성과 : 비지도 기반 실시간 예측 체계 설계로 **불량 탐지 정확도 약 14% 향상**, K-Means 기반 조건 추천 알고리즘으로 실제 조건과 **3~5% 내 오차 유지**
+- 성과 : AutoEncoder 기반 실시간 예측 체계 설계로 **불량 탐지 정확도 약 14% 향상**, K-Means 기반 조건 추천 알고리즘으로 실제 조건과 **3~5% 내 오차 유지**
 
 - [프로젝트 상세 설명](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main/Project_C)
 
@@ -143,7 +143,7 @@ flowchart LR
 
 - 기술 : Python, Scikit-Learn
 
-- 성과 : XGBoost 기반 공정 불량 탐지 모델 개발 및 공정별 AI 적용 가능성 분석, 일부 공정 **F1 75~91% 성능 확보**
+- 성과 : Tree모델델 기반 공정 불량 탐지 모델 개발 및 공정별 AI 적용 가능성 분석, 일부 공정 **F1 75~91% 성능 확보**
 
 - [프로젝트 상세 설명](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main/Project_E)
 
@@ -155,7 +155,7 @@ flowchart LR
 
 - 기술 : Python, Scikit-Learn
 
-- 성과 : Raw 데이터 표준화 및 Optuna 기반 모델 고도화로 **F1 약 12% 향상**, AI 적용 가능성 분석
+- 성과 : Raw 데이터 표준화 및 Optuna 기반 Tree 모델 고도화로 **F1 약 12% 향상**, AI 적용 가능성 분석
 
 - [프로젝트 상세 설명](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main/Project_F)
 
