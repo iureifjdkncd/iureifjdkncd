@@ -207,7 +207,7 @@ SCI급 논문 1저자 작성
 
 - 기술 : Python, Statsmodels, Scikit-Learn, TensorFlow, Excel, Tableau
 
-- 성과 : 한국 수출금액 예측을 위해 VECM과 Monte Carlo Dropout 기반 Multi Horizon Forecast (Seq2Seq)를 병행 적용하고, 예측 기반 추천 품목 도출 방안을 함께 설계하여 예측 정확도, 불확실성 해석력, 비즈니스 활용 가능성을 동시에 확보
+- 성과 : 한국 수출금액 예측을 위해 VECM과 Monte Carlo Dropout 기반 Multi Horizon Forecast (Seq2Seq)를 병행 적용하고(**정확도 97.1%**), 예측 기반 추천 품목 도출 방안을 함께 설계하여 예측 정확도, 불확실성 해석력, 비즈니스 활용 가능성을 동시에 확보
 
 - [공모전 정리](https://github.com/iureifjdkncd/2022_KOTRA_BI)
 
