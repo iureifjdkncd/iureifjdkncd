@@ -161,7 +161,7 @@ flowchart LR
 
 ---
 
-## 📝 Research 
+### 📝 Research 
 [전체 요약](https://github.com/iureifjdkncd/Research)
 
 #### 1.) Recipe Based Anomaly Detection with Adaptable Learning: Implications on Sustainable Smart Manufacturing(2025)
