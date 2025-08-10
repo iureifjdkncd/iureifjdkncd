@@ -89,7 +89,7 @@ flowchart LR
 
 - 기술 : Python, TensorFlow, Scikit-Learn, FastAPI, MongoDB, PostgreSQL
 
-- 성과 : K-Means 기반 조건 분류와 AutoEncoder 계열 모델을 활용해 **불량 탐지 정확도 16% 향상**, **예측 기반 라벨링으로 불량률 5% 감소**
+- 성과 : K-Means 기반 조건 분류와 AutoEncoder 계열 모델을 활용해 **불량 탐지 정확도 약 16% 향상**, **예측 기반 라벨링으로 불량률 약 5% 감소**
 
 - [프로젝트 상세 설명](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main/Project_A)
 
