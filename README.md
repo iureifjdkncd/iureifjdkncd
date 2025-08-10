@@ -89,7 +89,7 @@ flowchart LR
 
 - 기술 : Python, TensorFlow, Scikit-Learn, FastAPI, MongoDB, PostgreSQL
 
-- 설명 : K-Means 기반 조건 분류와 AutoEncoder 계열 모델을 활용해 불량 탐지 정확도를 16% 향상시키고, 예측 기반 라벨링으로 불량률 5% 감소에 기여
+- 성과 : K-Means 기반 조건 분류와 AutoEncoder 계열 모델을 활용해 불량 탐지 정확도를 16% 향상시키고, 예측 기반 라벨링으로 불량률 5% 감소
 
 - [프로젝트 상세 설명](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main/Project_A)
 
@@ -103,7 +103,7 @@ flowchart LR
 
 - 기술 : Python, TensorFlow, Scikit-Learn, FastAPI, MongoDB
 
-- 설명 : Quantile Regression과 Monte Carlo Dropout 기반 BiLSTM 모델 및 KDE를 활용해 예측 정확도 95%(실험) / 85 ~ 87%(현장) 달성, 작업자 기반 RuleBased 대비 AI 예측기반 추천조건 운전 시 조건 일치율 85~90% 유지, 설탕 품질 약 1% 향상
+- 성과 : Quantile Regression과 Monte Carlo Dropout 기반 BiLSTM 모델 및 KDE를 활용해 예측 정확도 95%(실험) / 85 ~ 87%(현장) 달성, 작업자 기반 RuleBased 대비 AI 예측기반 추천조건 운전 시 조건 일치율 85~90% 유지, 설탕 품질 약 1% 향상
 
 - [프로젝트 상세 설명](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main/Project_B)
 
@@ -116,7 +116,7 @@ flowchart LR
 
 - 기술 : Python, TensorFlow, Scikit-Learn, FastAPI, MongoDB
 
-- 설명 : 비지도 기반 실시간 예측 체계 설계로 불량 탐지 정확도 14% 향상, K-Means 기반 조건 추천 알고리즘으로 실제 조건과 3~5% 내 오차 유지
+- 성과 : 비지도 기반 실시간 예측 체계 설계로 불량 탐지 정확도 14% 향상, K-Means 기반 조건 추천 알고리즘으로 실제 조건과 3~5% 내 오차 유지
 
 - [프로젝트 상세 설명](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main/Project_C)
 
@@ -130,7 +130,7 @@ flowchart LR
 
 - 기술 : Python, Scikit-Learn, MongoDB
 
-- 설명 : Tree 기반 모델로 F1 95% 이상 달성, TTA 인증을 위한 모델 안정성 검증 및 시스템 준비 완료
+- 성과 : Tree 기반 모델로 F1 95% 이상 달성, TTA 인증을 위한 모델 안정성 검증 
 
 [프로젝트 상세 설명](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main/Project_D)
 
@@ -143,7 +143,7 @@ flowchart LR
 
 - 기술 : Python, Scikit-Learn
 
-- 설명 : XGBoost 기반 공정 불량 탐지 모델 개발 및 공정별 AI 적용 가능성 분석, 일부 공정 F1 75~91% 성능 확보
+- 성과 : XGBoost 기반 공정 불량 탐지 모델 개발 및 공정별 AI 적용 가능성 분석, 일부 공정 F1 75~91% 성능 확보
 
 - [프로젝트 상세 설명](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main/Project_E)
 
@@ -155,7 +155,7 @@ flowchart LR
 
 - 기술 : Python, Scikit-Learn
 
-- 설명 : Raw 데이터 표준화 및 Optuna 기반 모델 고도화로 F1 70%에서 82%로 향상, 고속 주기 조건 대응 실시간 예측 구조 설계
+- 성과 : Raw 데이터 표준화 및 Optuna 기반 모델 고도화로 F1 약 12% 향상, AI 적용 가능성 분석
 
 - [프로젝트 상세 설명](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main/Project_F)
 
@@ -172,7 +172,7 @@ flowchart LR
 
 - 기술 : Python, Scikit-Learn, TensorFlow, Overleaf
 
-- 설명 : 도메인별 품질 문제 정의 및 모델링 전략 수립, 불량 탐지 정확도 30~50% 이상 향상 기여, SCI급 논문 1저자 등재 (MDPI Sensors 저널 게재)
+- 성과 : 도메인별 품질 문제 정의 및 모델링 전략 수립, 실험 단계 불량 탐지 정확도 30~50% 이상 향상 기여, SCI급 논문 1저자 등재 (MDPI Sensors 저널 게재)
 
 - [논문 링크](https://doi.org/10.3390/s25051457)
    
@@ -186,7 +186,7 @@ flowchart LR
 
 - 기술 : Python, TensorFlow, Overleaf
 
-- 설명 : Forecast-Aware Reconstruction기반 Time Series Generation Module 설계, 
+- 성과 : Forecast-Aware Reconstruction기반 Time Series Generation Module 설계, 
 실제 제조 데이터 및 벤치마크 데이터셋에서 예측 정확도 최대 35.7%, Prediction Interval 적합도 최대 25.2% 개선, 
 SCI급 논문 1저자 작성 
 
@@ -207,7 +207,7 @@ SCI급 논문 1저자 작성
 
 - 기술 : Python, Statsmodels, Scikit-Learn, TensorFlow, Excel, Tableau
 
-- 설명 : 한국 수출금액 예측을 위해 VECM과 Monte Carlo Dropout 기반 Multi Horizon Forecast (Seq2Seq)를 병행 적용하고, 예측 기반 추천 품목 도출 방안을 함께 설계하여 예측 정확도, 불확실성 해석력, 비즈니스 활용 가능성을 동시에 확보
+- 성과 : 한국 수출금액 예측을 위해 VECM과 Monte Carlo Dropout 기반 Multi Horizon Forecast (Seq2Seq)를 병행 적용하고, 예측 기반 추천 품목 도출 방안을 함께 설계하여 예측 정확도, 불확실성 해석력, 비즈니스 활용 가능성을 동시에 확보
 
 - [공모전 정리](https://github.com/iureifjdkncd/2022_KOTRA_BI)
 
