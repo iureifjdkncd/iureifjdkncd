@@ -136,7 +136,7 @@ flowchart LR
 
 - 성과 : Tree ML기반 모델로 **F1 95% 이상 달성**, TTA 인증을 위한 모델 안정성 검증 
 
-[프로젝트 상세 설명](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main/Project_D)
+- [프로젝트 상세 설명](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main/Project_D)
 
 ---
 
