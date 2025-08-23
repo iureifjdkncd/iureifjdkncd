@@ -12,7 +12,7 @@ Mail : junheelee95@gmail.com
 ## 🎓 학력
 - 한양대학교(서울) 비즈니스 인포매틱스학과 석사 졸업 (2023.02)
 
-    → 석사학위논문 : 베이지안 딥러닝을 활용한 항만물동량 예측에 관한 연구 [논문 요약 및 핵심코드 저장소 바로가기](https://github.com/iureifjdkncd/2022-MS_Thesis)
+    → 석사학위논문 : 베이지안 딥러닝을 활용한 항만물동량 예측에 관한 연구 [Link](https://github.com/iureifjdkncd/2022-MS_Thesis)
 
 - 세종대학교 경영학과 / 비즈니스 애널리틱스학과 학사 졸업 (2021.02)
 
@@ -83,9 +83,9 @@ flowchart LR
 ```
 ---
 
-### 📝 Project Experience [Archive](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main)
+### 📝 Project Experience [Archive](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main) 
 
-#### 1. 비지도학습 기반 사출 품질 예측 및 최적 세팅 추천 (2023.08 ~ 2025.07)
+#### 1. 비지도학습 기반 사출 품질 예측 및 최적 세팅 추천 (2023.08 ~ 2025.07) [Link](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main/Project_A)
 
 - 문제: 라벨링 부족·세팅 변동성으로 불량 탐지 어려움
 
@@ -93,11 +93,9 @@ flowchart LR
 
 - 성과: 불량 탐지 정확도 약 **+16%**, 생산 불량률 약 **-5%**
 
-- [프로젝트 상세 설명](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main/Project_A)
-
 ---
 
-#### 2. 확률적 시계열 예측 기반 제당공정 품질 추론·조건 최적화 (2024.05 ~ 2025.03)
+#### 2. 확률적 시계열 예측 기반 제당공정 품질 추론·조건 최적화 (2024.05 ~ 2025.03) [Link](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main/Project_B)
 
 - 문제: 다변량 품질 예측 및 신규 조건 생성 불가 → 과거 조건 기반 추천 필요
 
@@ -105,11 +103,9 @@ flowchart LR
 
 - 성과: 예측 정확도 **87~91%**, 추천 조건 일치율 **85~90%**, 생산 품질 **+1%**
 
-- [프로젝트 상세 설명](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main/Project_B)
-
 ---
 
-#### 3.) 사출 설비 품질 예측·조건 추천 통합 시스템 (2023.05 ~ 2025.03)
+#### 3.) 사출 설비 품질 예측·조건 추천 통합 시스템 (2023.05 ~ 2025.03) [Link](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main/Project_C)
 
 - 문제: 라벨링 제약과 실시간 조건 추천 필요
 
@@ -117,11 +113,9 @@ flowchart LR
 
 - 성과: 불량 탐지 정확도 약 **+14%**, 조건 추천 오차 범위 **±3~5%**
 
-- [프로젝트 상세 설명](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main/Project_C)
-
 ---
 
-#### 4.) 사출 설비 불량 예측모델 개발 (TTA 인증) (2023.08 ~ 2023.09)
+#### 4.) 사출 설비 불량 예측모델 개발 (TTA 인증) (2023.08 ~ 2023.09) [Link](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main/Project_D)
 
 - 문제: 사출공정 불량탐지 모델 개발 및 TTA 인증 요구 대응
 
@@ -129,11 +123,9 @@ flowchart LR
 
 - 성과: F1 **95%** 이상, TTA 인증 확보
 
-- [프로젝트 상세 설명](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main/Project_D)
-
 ---
 
-#### 5.) Cogging Motor 조립·병렬 공정 불량 탐지 PoC (2024.07 ~ 2024.08)
+#### 5.) Cogging Motor 조립·병렬 공정 불량 탐지 PoC (2024.07 ~ 2024.08) [Link](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main/Project_E)
 
 - 문제: 모터 제조 품질 예측 AI 도입을 위한 PoC 수행
 
@@ -141,10 +133,8 @@ flowchart LR
 
 - 성과: F1 **75~91%**, AI 적용 가능성 검증
 
-- [프로젝트 상세 설명](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main/Project_E)
-
 ---
-#### 6.) 고속사출기 불량탐지 PoC (2023.11 ~ 2023.12)
+#### 6.) 고속사출기 불량탐지 PoC (2023.11 ~ 2023.12) [Link](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main/Project_F)
 
 - 문제: 고속사출기 생산 과정에서의 Raw Data 표준화 및 AI 도입을 위한 PoC 수행
 
@@ -152,14 +142,11 @@ flowchart LR
 
 - 성과: F1 **+12%** , AI 도입 타당성 확보
 
-- [프로젝트 상세 설명](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main/Project_F)
-
 ---
 
-### 📝 Research Experience
-[Archive](https://github.com/iureifjdkncd/Research)
+### 📝 Research Experience [Archive](https://github.com/iureifjdkncd/Research)
 
-#### 1.) Recipe Based Anomaly Detection with Adaptable Learning: Implications on Sustainable Smart Manufacturing(2025)
+#### 1.) Recipe Based Anomaly Detection with Adaptable Learning: Implications on Sustainable Smart Manufacturing(2025) [Link](https://doi.org/10.3390/s25051457)
 
 - 주제: 공정 세팅 변동 반영 및 새로운 세팅 생산에 강건한 추론 기법 연구
   
@@ -167,8 +154,6 @@ flowchart LR
 
 - 성과: 불량 탐지 정확도 **+30~50%**, **SCI급 논문(MDPI Sensors) 제1저자 게재**
 
-- [Paper Link](https://doi.org/10.3390/s25051457)
-   
 ---
 
 #### 2.) Forecast-Aware Conditional Process Optimization: A Two-Stage Deep Learning Framework (2025)
@@ -190,12 +175,6 @@ flowchart LR
   
 - 접근: 확률적 예측기반 통계 + DL기반 다변량 시계열 상호보완 
 
-- 성과 : VECM(**정확도 97.1%**)& Monte Carlo Dropout Seq2Seq 병행, 품목 수요 예측 서비스 비즈니스 아이디어 제안
-
-- [Link](https://github.com/iureifjdkncd/2022_KOTRA_BI)
-
-- [수상내역](https://datacontest.kr/board/view/97533073/3694)
-
-- [학회 논문 링크](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11207563)
+- 성과 : VECM(정확도 **97.1%**)& Monte Carlo Dropout Seq2Seq 병행, 품목 수요 예측 서비스 비즈니스 아이디어 제안
 
 ---
