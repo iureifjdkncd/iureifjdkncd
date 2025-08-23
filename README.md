@@ -184,15 +184,15 @@ flowchart LR
 
 ## 🏆 Contest 
 
-#### 1.) 제10회 산업통상자원부 공공데이터 활용 BI 공모전  최우수상 (KOTRA 사장상 수상)
+#### 1.) 제10회 산업통상자원부 공공데이터 활용 BI 공모전  최우수상 (KOTRA 사장상 수상) [Link](https://github.com/iureifjdkncd/2022_KOTRA_BI)
 
 - 과제명 : 한국 수출금액 예측 모델 기반 기업수요 맞춤형 서비스
   
 - 접근: 확률적 예측기반 통계 + DL기반 다변량 시계열 상호보완 
 
-- 성과 : VECM(**정확도 97.1%**)& Monte Carlo Dropout Seq2Seq 병행, 품목수요 예측서비스에서 정확도, 불확실성 해석력, 비즈니스 활용 가능성 제안
+- 성과 : VECM(**정확도 97.1%**)& Monte Carlo Dropout Seq2Seq 병행, 품목 수요 예측 서비스 비즈니스 아이디어 제안
 
-- [공모전 정리](https://github.com/iureifjdkncd/2022_KOTRA_BI)
+- [Link](https://github.com/iureifjdkncd/2022_KOTRA_BI)
 
 - [수상내역](https://datacontest.kr/board/view/97533073/3694)
 
