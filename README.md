@@ -83,118 +83,100 @@ flowchart LR
 ```
 ---
 
-### 📝 Projects
- [전체 요약](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main)
+### 📝 Project Experience
+ [Archive](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main)
 
-#### 1. 비지도 학습 기반 사출 품질 예측 및 최적 세팅 추천 시스템 (A사 자동차 부품 제조기업)
-- 기간 : 2023.08 ~ 2025.07 (약 23개월)
+#### 1. 비지도학습 기반 사출 품질 예측 및 최적 세팅 추천 (2023.08 ~ 2025.07)
 
-- 역할 : AI 모델 개발 및 솔루션 모니터링
+- 문제: 라벨링 부족·세팅 변동성으로 불량 탐지 어려움
 
-- 기술 : Python, TensorFlow, Scikit-Learn, FastAPI, MongoDB, PostgreSQL
+- 접근: **K-Means** 기반 조건 분리, **IsolationForest/AutoEncoder** 활용, 유사 조건 기반 추론 및 통계 가중 임계값 적용
 
-- 성과 : K-Means 기반 공정조건 분리와 AutoEncoder 계열 모델을 활용해 **불량 탐지 정확도 약 16% 향상**, **예측 기반 라벨링으로 불량률 약 5% 감소**
+- 성과: 불량 탐지 정확도 약 **+16%**, 생산 불량률 약 **-5%**
 
 - [프로젝트 상세 설명](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main/Project_A)
 
 ---
 
-#### 2. 확률적 시계열 예측 기반 제당 공정 품질 추론 및 조건 최적화 시스템 (S사 제당공정 기업)
+#### 2. 확률적 시계열 예측 기반 제당공정 품질 추론·조건 최적화 (2024.05 ~ 2025.03)
 
-- 기간 : 2024.05 ~ 2025.03 (약 10개월)
+- 문제: 다변량 품질 예측 및 신규 조건 생성 불가 → 과거 조건 기반 추천 필요
 
-- 역할 : AI 모델 개발 및 솔루션 모니터링
+- 접근: **Quantile ML Regression** + **MC Dropout-BiLSTM** 기반 확률적 예측, 과거 유사 조건 검색 및 다수 추적 경로 적용
 
-- 기술 : Python, TensorFlow, Scikit-Learn, FastAPI, MongoDB
-
-- 성과 : Quantile Tree Regression과 Monte Carlo Dropout 기반 BiLSTM 모델 및 KDE를 활용해 예측 정확도 약 95%(실험) / **87 ~ 91%(현장) 달성**, 작업자 기반 RuleBased 대비 AI 예측기반 추천조건 운전 시 **조건 일치율 85~90% 유지**, **설탕 품질 약 1% 향상**
+- 성과: 예측 정확도 **87~91%**, 추천 조건 일치율 **85~90%**, 생산 품질 **+1%**
 
 - [프로젝트 상세 설명](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main/Project_B)
 
 ---
 
-#### 3.) 사출 설비 품질 예측 및 조건 추천 통합 시스템 (N사 자동차 부품 제조기업)
-- 기간 : 2023.05 ~ 2025.03 (약 22개월)
+#### 3.) 사출 설비 품질 예측·조건 추천 통합 시스템 (2023.05 ~ 2025.03)
 
-- 역할 : AI 모델 개발 및 솔루션 모니터링
+- 문제: 라벨링 제약과 실시간 조건 추천 필요
 
-- 기술 : Python, TensorFlow, Scikit-Learn, FastAPI, MongoDB
+- 접근: **AutoEncoder** + 통계 기반 적응형 추론, **K-Means** + 확률 샘플링 통한 조건 추천
 
-- 성과 : AutoEncoder 기반 실시간 예측 체계 설계로 **불량 탐지 정확도 약 14% 향상**, K-Means 기반 조건 추천 알고리즘으로 실제 조건과 **3~5% 내 오차 유지**
+- 성과: 불량 탐지 정확도 약 **+14%**, 조건 추천 오차 범위 **±3~5%**
 
 - [프로젝트 상세 설명](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main/Project_C)
 
 ---
 
-#### 4.) 사출 설비 불량 예측 모델 개발 및 TTA 인증 대응 (S사 자동차 부품 제조기업)
+#### 4.) 사출 설비 불량 예측모델 개발 (TTA 인증) (2023.08 ~ 2023.09)
 
-- 기간 : 2023.08 ~ 2023.09 (약 1개월)
+- 문제: 사출공정 불량탐지 모델 개발 및 TTA 인증 요구 대응
 
-- 역할 : AI 모델 개발 및 보고서 작성 보조
+- 접근: **TreeML** 기반 모델링, 불균형 샘플링 + 교차검증
 
-- 기술 : Python, Scikit-Learn, MongoDB
-
-- 성과 : Tree ML기반 모델로 **F1 95% 이상 달성**, TTA 인증을 위한 모델 안정성 검증 
+- 성과: F1 **95%** 이상, TTA 인증 확보
 
 - [프로젝트 상세 설명](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main/Project_D)
 
 ---
 
-#### 5.) Cogging Motor 기반 조립·병렬 공정 불량 탐지 POC 수행 (M사 모터 제조기업)
-- 기간 : 2024.07 ~ 2024.08 (약 1개월)
+#### 5.) Cogging Motor 조립·병렬 공정 불량 탐지 PoC (2024.07 ~ 2024.08)
 
-- 역할 : AI 모델 개발 및 제안서 작성 보조
+- 문제: 모터 제조 품질 예측 AI 도입을 위한 PoC 수행
 
-- 기술 : Python, Scikit-Learn
+- 접근: **TreeML** + 불균형 샘플링, 공정별 임계값 설정
 
-- 성과 : Tree ML모델 기반 공정 불량 탐지 모델 개발 및 공정별 AI 적용 가능성 분석, 일부 공정 **F1 75~91% 성능 확보**
+- 성과: F1 **75~91%**, AI 적용 가능성 검증
 
 - [프로젝트 상세 설명](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main/Project_E)
 
 ---
-#### 6.) 고속 사출기 불량 탐지 AI 모델 POC 수행 (L사 산업용 기계 제조기업)
-- 기간 : 2023.11 ~ 2023.12 (약 1개월)
+#### 6.) 고속사출기 불량탐지 PoC (2023.11 ~ 2023.12)
 
-- 역할 : AI 모델 개발 및 제안서 작성 보조
+- 문제: 고속사출기 생산 과정에서의 Raw Data 표준화 및 AI 도입을 위한 PoC 수행
 
-- 기술 : Python, Scikit-Learn
+- 접근: Raw Data 표준화, Optuna 기반 **TreeML** 모델
 
-- 성과 : Raw 데이터 표준화 및 Optuna 기반 Tree ML모델 고도화로 **F1 약 12% 향상**, AI 적용 가능성 분석
+- 성과: F1 **+12%** , AI 도입 타당성 확보
 
 - [프로젝트 상세 설명](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main/Project_F)
 
 ---
 
-### 📝 Research 
-[전체 요약](https://github.com/iureifjdkncd/Research)
+### 📝 Research Experience
+[Archive](https://github.com/iureifjdkncd/Research)
 
 #### 1.) Recipe Based Anomaly Detection with Adaptable Learning: Implications on Sustainable Smart Manufacturing(2025)
 
 - 기간 : 2024.10 ~ 2025.02 (약 5개월)
 
-- 역할 : 분석 전략 기획, AI 고도화 연구, 논문 작성
+- 접근: **AutoEncoder** 분리학습 + 유사도 기반 추론
 
-- 기술 : Python, Scikit-Learn, TensorFlow, Overleaf
+- 성과: 불량 탐지 정확도 **+30~50%**, **SCI급 논문(MDPI Sensors) 제1저자 게재**
 
-- 성과 : 도메인별 품질 문제 정의 및 모델링 전략 수립, 실험 단계 AutoEncoder **불량 탐지 정확도 30~50% 이상 향상 기여**, **SCI급 논문 1저자 등재 (MDPI Sensors 저널 게재)**
-
-- [논문 링크](https://doi.org/10.3390/s25051457)
+- [Paper Link](https://doi.org/10.3390/s25051457)
    
 ---
 
-#### 2.) A Two-Stage Deep Learning Framework for Uncertainty-Aware Forecasting and Conditional Process Optimization Toward Sustainable Smart Manufacturing (2025)
+#### 2.) Forecast-Aware Conditional Process Optimization: A Two-Stage Deep Learning Framework (2025)
 
-- 기간 : 2025.06 ~ 2025.08 (약 2개월)
+- 접근: 예측·생성 모듈 융합, 조건부 시계열 생성 알고리즘 개발
 
-- 역할 : 분석 전략 기획, AI 고도화 연구, 논문 작성
-
-- 기술 : Python, TensorFlow, Overleaf
-
-- 성과 : Forecast-Aware Reconstruction기반 Time Series Generation Module 설계, 
-실제 제조 데이터 및 벤치마크 데이터셋에서 **예측 정확도 최대 35.7%, Prediction Interval 적합도 최대 25.2% 개선**, 
-**SCI급 논문 1저자 작성** 
-
-- [제출 예정](https://www.preprints.org/manuscript/202508.0377/v1)
+- 품질 예측 정확도 **+20%** 이상, SCI급 논문(MDPI Sensors) 제1저자 투고
 
 ---
 
