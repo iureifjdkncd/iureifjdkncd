@@ -12,7 +12,7 @@ Mail : junheelee95@gmail.com
 ## 🎓 학력
 - 한양대학교(서울) 비즈니스 인포매틱스학과 석사 졸업 (2023.02)
 
-    → 석사학위논문 : 베이지안 딥러닝을 활용한 항만물동량 예측에 관한 연구 [Link](https://github.com/iureifjdkncd/2022-MS_Thesis)
+    → 석사학위논문 : [베이지안 딥러닝을 활용한 항만물동량 예측에 관한 연구](https://github.com/iureifjdkncd/2022-MS_Thesis)
 
 - 세종대학교 경영학과 / 비즈니스 애널리틱스학과 학사 졸업 (2021.02)
 
@@ -48,11 +48,11 @@ Position: Data Scientist / SDF R&D
 ### ⭐️ Skills
 | 기술           | 실무 활용                                                                              | 내용 정리                                                    | 역량  |
 | ------------ | ------------------------------------------------------------------------------------- | -------------------------------------------------------- | ---- |
-| **Python**   | `pandas`, `numpy`로 데이터 분석 및 전처리 수행,<br>`scikit-learn`, `TensorFlow` 사용한 AI 모델 개발 및 실험 | 전체 파이프라인 경험 보유 (전처리~학습),<br>다만 PyTorch, OpenCV는 미경험            | 중\~상 |
+| **Python**   | `pandas`, `numpy`로 데이터 분석 및 전처리 수행,<br>`scikit-learn`, `TensorFlow` 사용한 AI 모델 개발 및 실험 | 전체 파이프라인 경험 보유 (전처리~학습),<br>다만 PyTorch, OpenCV는 미경험            | 중상 |
 | **FastAPI**  | 학습된 AI모델 `REST API`로 배포하여 시스템 구현 지원,<br>`.bat` 스크립트를 통한 `Uvicorn` 서버 자동 실행 환경 구성                                        | API 기반 시스템 구축 경험 보유,<br>개발팀 주도의 서비스 통합·배포 과정에서 협업 중심으로 참여             | 중    |
 | **Docker**   | `Docker`를 활용한 환경 구성 스크립트 작성                              | 환경 구축은 개발팀이 주도,<br>API 운영·배포, 환경 테스트에 협업 중심으로 참여                 | 중    |
 | **Database** | `MongoDB`,`PostgreSQL`에서 조건 필터링,정렬,`limit` 쿼리 등 수행,<br>Python 기반 조회 및 가공 경험                   | NoSQL(MongoDB)&RDB(PostgreSQL) 구조 이해,<br>설계,운영 경험은 없음 | 중    |
-| **Git**      | GitLab에 업로드 및 commit/pull/push,<br>`master` 브랜치 관리 경험                                            | Git 기본 명령 및 협업 경험 보유,<br>전략적 브랜치 운영 경험 부족           | 중\~하    |
+| **Git**      | GitLab에 업로드 및 commit/pull/push,<br>`master` 브랜치 관리 경험                                            | Git 기본 명령 및 협업 경험 보유,<br>전략적 브랜치 운영 경험 부족           | 중하    |
 
 ### 📌 AI 프로젝트 프로세스 담당 구분
 
@@ -99,7 +99,7 @@ flowchart LR
 
 - 문제: 다변량 품질 예측 및 신규 조건 생성 불가 → 과거 조건 기반 추천 필요
 
-- 접근: **Quantile ML Regression** + **MC Dropout-BiLSTM** 기반 확률적 예측, 과거 유사 조건 검색 및 다수 추적 경로 적용
+- 접근: **Quantile ML Regression** + **MC Dropout-BiLSTM** 기반 확률적 예측, 예측기반 과거 유사 조건 검색 및 다수 추적 경로 적용
 
 - 성과: 예측 정확도 **87~91%**, 추천 조건 일치율 **85~90%**, 생산 품질 **+1%**
 
