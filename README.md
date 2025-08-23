@@ -177,7 +177,7 @@ flowchart LR
   
 - 접근: 예측·생성 모듈 융합, 조건부 시계열 생성 알고리즘 개발
 
-- 품질 예측 정확도 **+20%** 이상, **SCI급 논문(MDPI Sensors) 제1저자 투고**
+- 문제: 품질 예측 정확도 **+20%** 이상, **SCI급 논문(MDPI Sensors) 제1저자 투고**
 
 ---
 
@@ -188,13 +188,9 @@ flowchart LR
 
 - 과제명 : 한국 수출금액 예측 모델 기반 기업수요 맞춤형 서비스
   
-- 기간 : 2022.05 ~ 2022.08 (약 3개월)
+- 접근: 확률적 예측기반 통계 + DL기반 다변량 시계열 상호보완 
 
-- 역할 : 시계열 예측 모델 설계, 정량 분석, 추론 해석, 보고서 및 발표 자료 작성, 공모전 바탕 학회 논문 작성
-
-- 기술 : Python, Statsmodels, Scikit-Learn, TensorFlow, Excel, Tableau
-
-- 성과 : 한국 수출금액 예측을 위해 VECM과 Monte Carlo Dropout 기반 Multi Horizon Forecast (Seq2Seq)를 병행 적용(**정확도 97.1%**), 예측 기반 추천 품목 도출 방안을 함께 설계하여 예측 정확도, 불확실성 해석력, 비즈니스 활용 가능성을 동시에 확보
+- 성과 : VECM(**정확도 97.1%**)& Monte Carlo Dropout Seq2Seq 병행, 품목수요 예측서비스에서 정확도, 불확실성 해석력, 비즈니스 활용 가능성 제안
 
 - [공모전 정리](https://github.com/iureifjdkncd/2022_KOTRA_BI)
 
