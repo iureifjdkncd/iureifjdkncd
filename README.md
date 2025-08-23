@@ -162,8 +162,8 @@ flowchart LR
 
 #### 1.) Recipe Based Anomaly Detection with Adaptable Learning: Implications on Sustainable Smart Manufacturing(2025)
 
-- 기간 : 2024.10 ~ 2025.02 (약 5개월)
-
+- 주제: 공정 세팅 변동 반영 및 새로운 세팅 생산에 강건한 추론 기법 연구
+  
 - 접근: **AutoEncoder** 분리학습 + 유사도 기반 추론
 
 - 성과: 불량 탐지 정확도 **+30~50%**, **SCI급 논문(MDPI Sensors) 제1저자 게재**
@@ -174,9 +174,11 @@ flowchart LR
 
 #### 2.) Forecast-Aware Conditional Process Optimization: A Two-Stage Deep Learning Framework (2025)
 
+- 주제: 목표값 기반 최적 다변량 시계열 공정 프로세스 생성 및 예측성능 기반 검증
+  
 - 접근: 예측·생성 모듈 융합, 조건부 시계열 생성 알고리즘 개발
 
-- 품질 예측 정확도 **+20%** 이상, SCI급 논문(MDPI Sensors) 제1저자 투고
+- 품질 예측 정확도 **+20%** 이상, **SCI급 논문(MDPI Sensors) 제1저자 투고**
 
 ---
 
