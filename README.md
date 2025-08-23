@@ -95,7 +95,7 @@ flowchart LR
 
 ---
 
-#### 2. 확률적 시계열 예측 기반 제당공정 품질 추론·조건 최적화 (2024.05 ~ 2025.03) [Link](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main/Project_B)
+#### 2. 확률적 시계열 예측 기반 제당공정 품질 추론·공정조건 최적화 (2024.05 ~ 2025.03) [Link](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main/Project_B)
 
 - 문제: 다변량 품질 예측 및 신규 조건 생성 불가 → 과거 조건 기반 추천 필요
 
