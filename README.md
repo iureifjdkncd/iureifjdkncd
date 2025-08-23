@@ -105,7 +105,7 @@ flowchart LR
 
 ---
 
-#### 3.) 사출 설비 품질 예측·조건 추천 통합 시스템 (2023.05 ~ 2025.03) [Link](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main/Project_C)
+#### 3.) 사출 설비 품질 예측·공정조건 추천 통합 시스템 (2023.05 ~ 2025.03) [Link](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main/Project_C)
 
 - 문제: 라벨링 제약과 실시간 조건 추천 필요
 
