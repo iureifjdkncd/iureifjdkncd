@@ -4,6 +4,8 @@ Name : 이준희 (JunHee Lee)
 
 Date of Birth : 1995.02.27
 
+CV : [경력기술서](https://drive.google.com/drive/u/1/folders/125tUnD7k2LYo6wkOExAdkXHX_JrRYQJk)
+
 --- 
 ## 📞 Contact
 Mail : junheelee95@gmail.com
