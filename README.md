@@ -39,7 +39,8 @@ Mail : junheelee95@gmail.com
 
 --- 
 ## 📌 Career
-Surromind (2025.09 ~ Present
+
+Surromind (2025.09 ~ Present)
 
 InterX (2023.03 ~ 2023.09)
 
