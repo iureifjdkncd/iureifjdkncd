@@ -86,6 +86,20 @@ flowchart LR
     classDef devco fill:#e0f2fe,stroke:#0284c7,stroke-width:2px;
     classDef meco fill:#ecfdf5,stroke:#10b981,stroke-width:2px;
 ```
+
+---
+
+### 📝 Project Experience (2025.09 ~ Current) [Archive](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main) 
+
+#### 1. 프로젝트 이름 (2025.09 ~ 2025.12) [Link](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main/Project_A)
+
+- 문제: 작성 업데이트
+
+- 접근: 작성 업데이트
+
+- 성과: 작성 업데이트
+
+
 ---
 
 ### 📝 Project Experience (2023.03 ~ 2025.09) [Archive](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main) 
