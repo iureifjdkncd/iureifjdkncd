@@ -91,13 +91,13 @@ flowchart LR
 
 ### 📝 Project Experience (2025.09 ~ Current) [Archive](https://github.com/iureifjdkncd/B2B_AI_Projects_2025.09-Current/tree/main) 
 
-#### 1. 프로젝트 이름 (2025.09 ~ 2025.12) [Link](https://github.com/iureifjdkncd/B2B_AI_Projects_2025.09-Current/tree/main/Project_A)
+#### 1. 프로젝트 이름 (2025.09 ~ 2025.12) Link 업데이트 필요
 
-- 문제: 작성 업데이트
+- 문제: 차량 주행패턴 이상탐지 및 인과분석 기반 간편 솔루션 대시보드 구축 및 배포
 
-- 접근: 작성 업데이트
+- 접근: Python Streamlit 기반 UI대시보드 개발 
 
-- 성과: 작성 업데이트
+- 성과: 데이터 업로드/전처리 , 이상탐지 및 인과분석, 재학습 및 모델 가중치 업데이트 등 전 과정 기능 탑재 완료 
 
 
 ---
