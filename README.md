@@ -89,9 +89,9 @@ flowchart LR
 
 ---
 
-### 📝 Project Experience (2025.09 ~ Current) [Archive](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main) 
+### 📝 Project Experience (2025.09 ~ Current) [Archive](https://github.com/iureifjdkncd/B2B_AI_Projects_2025.09-Current/tree/main) 
 
-#### 1. 프로젝트 이름 (2025.09 ~ 2025.12) [Link](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main/Project_A)
+#### 1. 프로젝트 이름 (2025.09 ~ 2025.12) [Link](https://github.com/iureifjdkncd/B2B_AI_Projects_2025.09-Current/tree/main/Project_A)
 
 - 문제: 작성 업데이트
 
