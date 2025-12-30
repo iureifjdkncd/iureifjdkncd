@@ -98,7 +98,7 @@ flowchart LR
 
 - 성과: 불량 탐지 정확도 약 **+16%**, 생산 불량률 약 **-5%**
 
-
+--
 
 #### 2. 확률적 시계열 예측 기반 제당공정 품질 추론·공정조건 최적화 (2024.05 ~ 2025.03) [Link](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main/Project_B)
 
@@ -108,7 +108,7 @@ flowchart LR
 
 - 성과: 예측 정확도 **87~91%**, 추천 조건 일치율 **85~90%**, 생산 품질 **+1%**
 
-
+--
 
 #### 3.) 사출 설비 품질 예측·공정조건 추천 통합 시스템 (2023.05 ~ 2025.03) [Link](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main/Project_C)
 
@@ -118,7 +118,7 @@ flowchart LR
 
 - 성과: 불량 탐지 정확도 약 **+14%**, 조건 추천 오차 범위 **±3~5%**
 
-
+--
 
 #### 4.) 사출 설비 불량 예측모델 개발 (TTA 인증) (2023.08 ~ 2023.09) [Link](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main/Project_D)
 
@@ -128,7 +128,7 @@ flowchart LR
 
 - 성과: F1 **95%** 이상, TTA 인증 확보
 
-
+--
 
 #### 5.) Cogging Motor 조립·병렬 공정 불량 탐지 PoC (2024.07 ~ 2024.08) [Link](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main/Project_E)
 
@@ -138,6 +138,7 @@ flowchart LR
 
 - 성과: F1 **75~91%**, AI 적용 가능성 검증
 
+--
 
 #### 6.) 고속사출기 불량탐지 PoC (2023.11 ~ 2023.12) [Link](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main/Project_F)
 
@@ -159,7 +160,7 @@ flowchart LR
 
 - 성과: 불량 탐지 정확도 **+30~50%**, **SCI급 논문(MDPI Sensors) 제1저자 게재**
 
----
+--
 
 #### 2.) Forecast-Aware Conditional Process Optimization: A Two-Stage Deep Learning Framework (2025)
 
