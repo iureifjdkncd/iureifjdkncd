@@ -91,7 +91,7 @@ flowchart LR
 
 ### 📝 Project Experience (2025.09 ~ Current) [Archive](https://github.com/iureifjdkncd/B2B_AI_Projects_2025.09-Current/tree/main) 
 
-#### 1. 프로젝트 이름 (2025.09 ~ 2025.12) Link 업데이트 필요
+#### 1. 프로젝트 이름 (2025.09 ~ 2025.12) [Link](https://github.com/iureifjdkncd/B2B_AI_Projects_2025.09-Current/tree/main/Project_A
 
 - 문제: 차량 주행패턴 이상탐지 및 인과분석 기반 간편 솔루션 대시보드 구축 및 배포
 
