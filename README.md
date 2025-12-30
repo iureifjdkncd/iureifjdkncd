@@ -88,7 +88,7 @@ flowchart LR
 ```
 ---
 
-### 📝 Project Experience [Archive](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main) 
+### 📝 Project Experience (2023.03 ~ 2025.09) [Archive](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main) 
 
 #### 1. 비지도학습 기반 사출 품질 예측 및 최적 세팅 추천 (2023.08 ~ 2025.07) [Link](https://github.com/iureifjdkncd/B2B_AI_Projects/tree/main/Project_A)
 
